@@ -5,6 +5,7 @@ Please note:
 - scraping this website is only allowed for personal use (as per Morningstar's Terms and Conditions).
 - this tool is structured in a such a way that it gently / ethically scrapes the pages it encounters (in other words, scraping data might take a bit longer given the couple of "sleep" intervals embedded in the code)
 - you will have to point the browser variable to the local path of your webdriver
+- though this scraper has specifically been built for the Dutch Morningstar website, it enables one to extract data from multiple non-NL universes (e.g. ETFs listed on the Xetra, Nasdaq etc)
 
 This tool has been written by means of [Python 3.5.1](https://www.python.org/downloads/release/python-351/), [Selenium 3.4.3](https://pypi.python.org/pypi/selenium) and [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/).
 
