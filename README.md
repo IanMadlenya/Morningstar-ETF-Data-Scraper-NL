@@ -1,4 +1,4 @@
-# Basic tool for (gently) scraping ETF data from the Dutch [Morningstar](http://tools.morningstar.nl/nl/etfquickrank/default.aspx?Site=NL&Universe=ETALL%24%24ALL&LanguageId=nl-NL) ETF Quickrank / Database .
+# Basic tool for (gently) scraping ETF data (across exchanges) from the Dutch [Morningstar](http://tools.morningstar.nl/nl/etfquickrank/default.aspx?Site=NL&Universe=ETALL%24%24ALL&LanguageId=nl-NL) ETF Quickrank / Database .
 
 Please note:
 
